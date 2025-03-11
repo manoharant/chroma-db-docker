@@ -8,4 +8,4 @@ services:
       - IS_PERSISTENT=TRUE
       - ANONYMIZED_TELEMETRY=TRUE
     ports:
-      - "8080:8080"
+      - "8000:8000"
